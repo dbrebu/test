@@ -1,1 +1,0 @@
-Test file for exercise 6.
